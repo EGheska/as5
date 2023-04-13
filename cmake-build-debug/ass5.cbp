@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/dimooon/CLionProjects/ass5/Logger.cpp">
+			<Option target="ass5"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/ass5/Logger.h">
+			<Option target="ass5"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/ass5/NamedFile.cpp">
+			<Option target="ass5"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/ass5/NamedFile.h">
+			<Option target="ass5"/>
+		</Unit>
 		<Unit filename="/Users/dimooon/CLionProjects/ass5/main.cpp">
 			<Option target="ass5"/>
 		</Unit>

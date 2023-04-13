@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/dimooon/CLionProjects/ass5/Logger.cpp" "/Users/dimooon/CLionProjects/ass5/cmake-build-debug/CMakeFiles/ass5.dir/Logger.cpp.o"
+  "/Users/dimooon/CLionProjects/ass5/NamedFile.cpp" "/Users/dimooon/CLionProjects/ass5/cmake-build-debug/CMakeFiles/ass5.dir/NamedFile.cpp.o"
   "/Users/dimooon/CLionProjects/ass5/main.cpp" "/Users/dimooon/CLionProjects/ass5/cmake-build-debug/CMakeFiles/ass5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

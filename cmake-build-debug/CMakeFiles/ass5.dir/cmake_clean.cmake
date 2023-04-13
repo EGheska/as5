@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ass5.dir/Logger.cpp.o"
+  "CMakeFiles/ass5.dir/NamedFile.cpp.o"
   "CMakeFiles/ass5.dir/main.cpp.o"
   "ass5"
   "ass5.pdb"

@@ -129,6 +129,54 @@ ass5/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/build
 .PHONY : ass5/fast
 
+Logger.o: Logger.cpp.o
+.PHONY : Logger.o
+
+# target to build an object file
+Logger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/Logger.cpp.o
+.PHONY : Logger.cpp.o
+
+Logger.i: Logger.cpp.i
+.PHONY : Logger.i
+
+# target to preprocess a source file
+Logger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/Logger.cpp.i
+.PHONY : Logger.cpp.i
+
+Logger.s: Logger.cpp.s
+.PHONY : Logger.s
+
+# target to generate assembly for a file
+Logger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/Logger.cpp.s
+.PHONY : Logger.cpp.s
+
+NamedFile.o: NamedFile.cpp.o
+.PHONY : NamedFile.o
+
+# target to build an object file
+NamedFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/NamedFile.cpp.o
+.PHONY : NamedFile.cpp.o
+
+NamedFile.i: NamedFile.cpp.i
+.PHONY : NamedFile.i
+
+# target to preprocess a source file
+NamedFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/NamedFile.cpp.i
+.PHONY : NamedFile.cpp.i
+
+NamedFile.s: NamedFile.cpp.s
+.PHONY : NamedFile.s
+
+# target to generate assembly for a file
+NamedFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ass5.dir/build.make CMakeFiles/ass5.dir/NamedFile.cpp.s
+.PHONY : NamedFile.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ass5"
+	@echo "... Logger.o"
+	@echo "... Logger.i"
+	@echo "... Logger.s"
+	@echo "... NamedFile.o"
+	@echo "... NamedFile.i"
+	@echo "... NamedFile.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

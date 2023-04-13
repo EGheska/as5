@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dimooon/CLionProjects/ass5/Logger.h
+NamedFile.h
+/Users/dimooon/CLionProjects/ass5/NamedFile.h
+
+/Users/dimooon/CLionProjects/ass5/NamedFile.h
+string
+-
+
+/Users/dimooon/CLionProjects/ass5/main.cpp
+iostream
+-
+NamedFile.h
+/Users/dimooon/CLionProjects/ass5/NamedFile.h
+Logger.h
+/Users/dimooon/CLionProjects/ass5/Logger.h
+
